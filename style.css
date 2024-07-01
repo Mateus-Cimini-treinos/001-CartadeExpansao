@@ -75,4 +75,7 @@ i{
 
 a {
     color: black;
+    position: relative;
+    top: 550px;
+    font-size: 18px;
 }
